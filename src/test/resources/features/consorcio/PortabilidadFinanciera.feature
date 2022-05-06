@@ -1,4 +1,4 @@
-@LB-333
+#@LB-333
 Feature: Ingresar a portabilidad financiera
 	Se espera ingresar al home de portabilidad financiera
 
@@ -11,7 +11,7 @@ Scenario: Ingresar portabibilidad fianciera
 	And  se selecciona portabilidad financiera
   Then se visualiza el home de portabilidad financiera
 
- @TEST_LB-543 @regression @test2
+ @TEST_LB-554 @regression @test2
 Scenario: Ingresar a hazte cliente o Banco
 	When ingreso a portate o hazte clienteee
 	And  se selecciona hazte cliente banco
